@@ -4,7 +4,7 @@ Active learning based algorithm for named entity recognition using CRF model on 
 ### Sampling strategies implemented thus far: 
 
 1) Uncertainty-based
-  - Least confidence (fixing errors)
+  - Least confidence
   - ~Margin confidence~ (Coming soon!!)
   - ~Entropy~ (Coming soon!!)
   
