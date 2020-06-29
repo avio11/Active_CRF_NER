@@ -16,4 +16,5 @@ Active learning based algorithm for named entity recognition using CRF model on 
 
 Note: At first the code is presented as an ipython notebook, which should later be converted into python files for ease of use for different datasets.
 
+<h3> Starter code </h3>
 The implementation of the CRF uses the sklearn-crfsuite library, and part of the code was taken from the sklearn-crfsuite's github: https://github.com/TeamHG-Memex/sklearn-crfsuite/blob/master/docs/CoNLL2002.ipynb
